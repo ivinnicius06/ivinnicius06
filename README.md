@@ -21,7 +21,7 @@ Tudo bem?👋
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ivinnicius06/ivinnicius06/output/snake.svg" alt="Snake animation" />
 
 
 
