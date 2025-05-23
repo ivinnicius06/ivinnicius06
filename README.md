@@ -1,10 +1,10 @@
-## Olá, eu sou o icaro!!
+## Olá, seja bem vindo!!
 
 Tudo bem?👋
 
 - 🧑‍🎓 Estudante de Engenharia de Software
 - 🌱 Atualmente estou focando em aperfeiçoar TypeScript e Python
-- 📫 Contate-me no email: i.vinnicius06@gmail.com
+- 📫 Email: i.vinnicius06@gmail.com
 
   <div>
   <a href="https://github.com/ivinnicius06">
