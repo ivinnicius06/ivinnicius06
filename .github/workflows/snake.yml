@@ -26,8 +26,9 @@ jobs:
           message: "generate animation"
           add: "dist/*.svg"
 
-      - name: Upload animation
-        uses: actions/upload-artifact@3d7a07dce5b03258f3e1b0a4e4549ca3c3886f2f
-        with:
-          name: snake-animation
-          path: dist
+- name: Upload animation
+  uses: actions/upload-artifact@v2
+  with:
+    name: snake-animation
+    path: dist
+
