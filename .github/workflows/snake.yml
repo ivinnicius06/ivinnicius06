@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
   push:
     branches:
       - main
@@ -26,9 +26,8 @@ jobs:
           message: "generate animation"
           add: "dist/*.svg"
 
-- name: Upload animation
-  uses: actions/upload-artifact@v2
-  with:
-    name: snake-animation
-    path: dist
-
+      - name: Upload animation
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: snake-animation
+          path: dist
