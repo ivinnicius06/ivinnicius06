@@ -1,9 +1,9 @@
 ## Olá, seja bem vindo!!
 
-Tudo bem?👋
+👋
 
 - 🧑‍🎓 Estudante de Engenharia de Software
-- 🌱 Atualmente estou focando em aperfeiçoar TypeScript e Python
+- 🌱 TypeScript e Python
 - 📫 Email: i.vinnicius06@gmail.com
 
   <div>
