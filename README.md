@@ -3,7 +3,7 @@
 👋
 
 - 🧑‍🎓 Software engineer
-- 🌱 Java, Python, SQL
+- 🌱 Java, Python, C, SQL, HTML, CSS
 - 📫 Email: i.vinnicius06@gmail.com
 
   <div>
