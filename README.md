@@ -1,9 +1,9 @@
-## Olá, seja bem vindo!!
+## Hi
 
 👋
 
-- 🧑‍🎓 Estudante de Engenharia de Software
-- 🌱 TypeScript e Python
+- 🧑‍🎓 Software engineer
+- 🌱 Java, Python, SQL
 - 📫 Email: i.vinnicius06@gmail.com
 
   <div>
